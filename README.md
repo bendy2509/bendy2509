@@ -101,14 +101,13 @@
   <br/><br/>
 
   <!-- GitHub Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=bendy2509&show_icons=true&theme=radical" 
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=bendy2509&show_icons=true&theme=radical" 
        alt="GitHub stats" 
        height="180" />
-  
+  -->
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bendy2509&layout=compact&theme=radical" 
        alt="Top languages" 
-
-
-
+       height="180" />
+</div>
 
