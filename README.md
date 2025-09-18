@@ -93,25 +93,6 @@
 <h3 align="left">🔥 My GitHub Stats</h3>
 
 <div align="center">
-  <!-- Recent commit activity badge -->
-  <img src="https://img.shields.io/github/commit-activity/m/bendy2509?style=for-the-badge&logo=github" 
-       alt="Recent GitHub commits" 
-       height="40" />
-
-  <br/><br/>
-
-  <!-- GitHub Overall Stats -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=bendy2509&show_icons=true&theme=radical" 
-       alt="GitHub stats" 
-       height="180" />
-  -->
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bendy2509&layout=compact&theme=radical" 
-       alt="Top languages" 
-       height="180" />
-</div>
-
-<div align="center">
   <!-- GitHub Overall Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=bendy2509&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" 
        height="150" 
@@ -122,3 +103,4 @@
        height="150" 
        alt="Top languages" />
 </div>
+
