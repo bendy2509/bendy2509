@@ -93,13 +93,22 @@
 <h3 align="left">🔥 My GitHub Stats</h3>
 
 <div align="center">
-  <!-- Streak stats -->
-  <img src="https://streak-stats.demolab.com?user=bendy2509&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="220" alt="streak graph" />
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=bendy2509&theme=radical&mode=daily&hide_border=false&border_radius=5" 
+       alt="GitHub streak graph" 
+       height="220" />
 
   <br/><br/>
 
-  <!-- Overall stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=bendy2509&show_icons=true&theme=radical" height="180" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bendy2509&layout=compact&theme=radical" height="180" alt="Top languages" />
+  <!-- GitHub Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=bendy2509&show_icons=true&theme=radical" 
+       alt="GitHub stats" 
+       height="180" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bendy2509&layout=compact&theme=radical" 
+       alt="Top languages" 
+       height="180" />
 </div>
+
 
