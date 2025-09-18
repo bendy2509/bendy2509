@@ -93,10 +93,10 @@
 <h3 align="left">🔥 My GitHub Stats</h3>
 
 <div align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=bendy2509&theme=radical&mode=daily&hide_border=false&border_radius=5" 
-       alt="GitHub streak graph" 
-       height="220" />
+  <!-- Recent commit activity badge (replaces streak graph) -->
+  <img src="https://img.shields.io/github/commit-activity/m/bendy2509?style=for-the-badge&logo=github" 
+       alt="Recent GitHub commits" 
+       height="40" />
 
   <br/><br/>
 
@@ -110,5 +110,6 @@
        alt="Top languages" 
        height="180" />
 </div>
+
 
 
