@@ -93,7 +93,7 @@
 <h3 align="left">🔥 My GitHub Stats</h3>
 
 <div align="center">
-  <!-- Recent commit activity badge (replaces streak graph) -->
+  <!-- Recent commit activity badge -->
   <img src="https://img.shields.io/github/commit-activity/m/bendy2509?style=for-the-badge&logo=github" 
        alt="Recent GitHub commits" 
        height="40" />
@@ -108,8 +108,7 @@
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bendy2509&layout=compact&theme=radical" 
        alt="Top languages" 
-       height="180" />
-</div>
+
 
 
 
