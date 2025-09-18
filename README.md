@@ -32,7 +32,7 @@
 
 <p align="left">
   Passionate about technology and software development.<br><br>
-  - 🚀 Building projects like <b>Mickonekte (mickonekte.com)</b>, <b>KayPam</b>, and <b>SJD (Surprise Joy Deliveries)</b>.<br>
+  - 🚀 Building projects like <b>Mickonekte (mickonekte.com)</b>, <b><a href="https://bsdev2509.pythonanywhere.com/">BSBlog</a></b>, and <b>SJD (Surprise Joy Deliveries)</b>.<br>
   - 📚 Currently exploring advanced <b>Laravel</b>, <b>Django</b>, and <b>Kotlin</b>.<br>
   - 🌍 Based in Haiti, curious about networking, system administration, and full-stack development.<br>
   - ⚡ I love turning ideas into impactful digital solutions.
