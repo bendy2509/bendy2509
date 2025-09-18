@@ -1,5 +1,15 @@
+<h1 align="center">Hey there 👋, I'm Bendy SERVILUS</h1>
+
+###
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=bendy2509.bendy2509" />
 </div>
 
 ###
@@ -18,19 +28,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bendy2509.bendy2509" />
-</div>
-
-###
-
-<h1 align="center">Hey there 👋, I'm Bendy SERVILUS</h1>
-
-###
-
 <h3 align="left">👨‍💻 About Me</h3>
-
-###
 
 <p align="left">
   Passionate about technology and software development.<br><br>
@@ -43,8 +41,6 @@
 ###
 
 <h3 align="left">🚀 Featured Projects</h3>
-
-###
 
 <ul>
   <li>🌐 <a href="https://mickonekte.com" target="_blank"><b>Mickonekte</b></a> — A professional networking platform for meaningful connections</li>
@@ -59,48 +55,33 @@
 
 <div align="left">
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="40" alt="PHP logo" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="40" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="40" alt="Laravel logo" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="40" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" alt="Python logo" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="40" alt="Django logo" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="40" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" height="40" alt="Kotlin logo" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" height="40" />
   <img width="12" />
 
   <!-- Databases -->
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="40" alt="MySQL logo" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="40" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="40" alt="PostgreSQL logo" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="40" />
   <img width="12" />
 
   <!-- Frontend / Styling -->
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="40" alt="TailwindCSS logo" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="40" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="40" alt="Sass logo" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="40" />
   <img width="12" />
 
   <!-- DevOps / Tools -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="40" alt="Linux logo" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="40" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="40" alt="Docker logo" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="40" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40" alt="Git logo" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40" />
 </div>
-
-<h3 align="left">🔥 My GitHub Stats</h3>
-
-<div align="center">
-  <!-- GitHub Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=bendy2509&show_icons=true&theme=dracula" 
-       height="180" 
-       alt="GitHub stats" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bendy2509&layout=compact&theme=dracula" 
-       height="180" 
-       alt="Top languages" />
-</div>
-
